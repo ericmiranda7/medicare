@@ -1,0 +1,260 @@
+{
+  "user": [
+    {
+      "name": "Eric Miranda",
+      "mobNumber": "9818312301",
+      "age": 27,
+      "dob": "1992-09-17",
+      "email": "ericmiranda7@gmail.com",
+      "password": "123456",
+      "language": [
+        "English",
+        "Oriya/Odiya"
+      ],
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Vapi",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": "560037"
+      },
+      "aboutYou": "I am a programmer...",
+      "uploadPhoto": "C:\\fakepath\\IMG_7514.jpg",
+      "agreetc": true,
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "aboutYou": "I am programmer",
+      "age": 25,
+      "agreetc": true,
+      "dob": "2019-12-31",
+      "email": "seller@gmail.com",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": "560037"
+      },
+      "language": [
+        "Oriya/Odiya"
+      ],
+      "mobNumber": "0123456789",
+      "name": "Bijay",
+      "password": "123456",
+      "uploadPhoto": "C:\\fakepath\\Online Application.pdf",
+      "role": "seller",
+      "id": 2
+    },
+    {
+      "name": "Last user",
+      "mobNumber": "0123456789",
+      "age": 25,
+      "dob": "2017-11-30",
+      "email": "buyer@gmail.com",
+      "password": "123456",
+      "gender": "Male",
+      "address": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": "560037"
+      },
+      "aboutYou": "djdhjdh",
+      "uploadPhoto": "C:\\fakepath\\Online Application.pdf",
+      "role": "buyer",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Synthroid",
+      "uploadPhoto": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG1lZGljaW5lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "productDesc": "Synthroid (levothyroxine), which treats hypothyroidism, or underactive thyroid disease, has been the top-prescribed medicine for several years.",
+      "mrp": "150",
+      "dp": "120",
+      "status": "publish"
+    },
+    {
+      "id": 2,
+      "name": "Crestor",
+      "uploadPhoto": "https://images.unsplash.com/photo-1562243061-204550d8a2c9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1lZGljaW5lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500",
+      "productDesc": "Humira (adalimumab), which treats conditions including arthritis and Crohn’s disease, overtook last year’s best-seller, Abilify (aripiprazole).",
+      "mrp": "50",
+      "dp": "30",
+      "status": "publish"
+    },
+    {
+      "id": 3,
+      "name": "Ventolin HFA ",
+      "uploadPhoto": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVkaWNpbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "productDesc": "The thyroid drug Synthroid continues to be the nation’s most-prescribed medication. But Humira, which treats a variety of conditions, had the highest sales, according to the research firm IMS Health.",
+      "mrp": "120",
+      "dp": "90",
+      "status": "publish"
+    },
+    {
+      "id": 4,
+      "name": "Nexium",
+      "uploadPhoto": "https://images.unsplash.com/photo-1576671081837-49000212a370?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWVkaWNpbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500",
+      "productDesc": "Humira (adalimumab), which treats conditions including arthritis and Crohn’s disease, overtook last year’s best-seller, Abilify (aripiprazole).",
+      "mrp": "150",
+      "dp": "120",
+      "status": "publish"
+    },
+    {
+      "id": 5,
+      "name": "Spiriva Handihaler",
+      "uploadPhoto": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVkaWNpbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500",
+      "productDesc": "Synthroid (levothyroxine), which treats hypothyroidism, or underactive thyroid disease, has been the top-prescribed medicine for several years.",
+      "mrp": "40",
+      "dp": "20",
+      "status": "publish"
+    },
+    {
+      "id": 6,
+      "name": "Januvia (sitagliptin)",
+      "uploadPhoto": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=60&raw_url=true&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fG1lZGljaW5lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500",
+      "productDesc": "The top 10 medications by number of monthly prescriptions are: ... parsley, and spinach are some of the most common foods high in vitamin K.",
+      "mrp": "199",
+      "dp": "150",
+      "status": "publish"
+    },
+    {
+      "id": 7,
+      "name": "Noodles",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/eX5xw60W7G1XKr0ai2Ok-cropped.jpg",
+      "productDesc": "Noodles are a type of food made from unleavened dough which is rolled flat and cut, stretched or extruded, into long strips or strings.",
+      "mrp": "123",
+      "dp": "99",
+      "status": "publish"
+    },
+    {
+      "id": 8,
+      "name": "Burger",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/3Zmh9CL1rPpNscxzhzli-cropped.png",
+      "productDesc": "A hamburger (or burger for short) is a food consisting of fillings —usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll.",
+      "mrp": "200",
+      "dp": "199",
+      "status": "draft"
+    },
+    {
+      "id": 9,
+      "name": "Sandwich",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/eSkwnbYYZn9EMCa1n0h3-cropped.jpg",
+      "productDesc": "A sandwich is a food typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread, or more generally any dish wherein bread serves as a container or wrapper for another food type.",
+      "mrp": "300",
+      "dp": "199",
+      "status": "inactive"
+    },
+    {
+      "id": 10,
+      "name": "Frankie",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/7CjfpvxVBrrlaHJiWPwX-cropped.jpg",
+      "productDesc": "This veg frankie recipe is one of the most loved Indian street food! Whole wheat roti or chapati is layered with spiced mashed potato rolls",
+      "mrp": "100",
+      "dp": "80",
+      "status": "publish"
+    },
+    {
+      "id": 11,
+      "name": "Shake",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/SXrD1UjvqJodxghQx9Lb-cropped.jpg",
+      "productDesc": "A milkshake (sometimes simply called a shake) is a sweet drink made by blending milk, ice cream, and flavorings or sweeteners such as butterscotch",
+      "mrp": "150",
+      "dp": "120",
+      "status": "publish"
+    },
+    {
+      "id": 12,
+      "name": "Patties",
+      "uploadPhoto": "https://knowbbies.com/storage/courses/June2018/DBrHN3BSW9wY0KgFjw0E-cropped.jpg",
+      "productDesc": "A patty or burger (in British English) is a flattened, usually round, serving of ground meat and/or legumes, grains, vegetables, or meat alternatives",
+      "mrp": "120",
+      "dp": "100",
+      "status": "publish"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 1,
+        "name": "Polyester Door Curtain",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+        "productDesc": "Transform the ambiance of your home with these elegant, crushed texture, light weight, solid color curtains. These curtains are available in several colors and sizes to match to your home decor and the gracefully flowing polyester is durable and machine washable for your convenience.",
+        "mrp": "1000",
+        "dp": "499",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": 560037
+      },
+      "contact": "09040398006",
+      "dateTime": "18/07/2019"
+    },
+    {
+      "id": 2,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 1,
+        "name": "Polyester Door Curtain",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/jcf487k0/curtain/w/e/y/elegant-cream-door-curtains-set-of-2-213-soe-fsb-120-120-eyelet-original-imaffk7f9wng4v4m.jpeg",
+        "productDesc": "Transform the ambiance of your home with these elegant, crushed texture, light weight, solid color curtains. These curtains are available in several colors and sizes to match to your home decor and the gracefully flowing polyester is durable and machine washable for your convenience.",
+        "mrp": "1000",
+        "dp": "499",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": 560037
+      },
+      "contact": "09040398006",
+      "dateTime": "30/08/2019"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "sellerId": 2,
+      "product": {
+        "id": 2,
+        "name": "Ashirvad Ghee",
+        "uploadPhoto": "https://rukminim1.flixcart.com/image/832/832/j9yixe80/ghee/h/z/p/1-aashirvaad-pure-cow-plastic-bottle-aashirvaad-original-imaeznaasxznzgc7.jpeg?q=70",
+        "productDesc": "Ghee is pure hygeine and best in the market. You can trust it over all. It is fresh and made by the best dairies of India. ",
+        "mrp": "180",
+        "dp": "175",
+        "status": "publish"
+      },
+      "deliveryAddress": {
+        "id": 0,
+        "addLine1": "Marathalli",
+        "addLine2": "Aswathnagar",
+        "city": "Bangalore",
+        "state": "Choose...",
+        "zipCode": 560037
+      },
+      "contact": "0123456789",
+      "dateTime": "2/21/2022"
+    }
+  ]
+}
